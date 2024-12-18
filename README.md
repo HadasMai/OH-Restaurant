@@ -1,17 +1,12 @@
 # OH Restaurant - Online Food Ordering Website
-<h1>Hadas Maimon and Odaya Attia </h1>
-<p>Email: hadasmai@edu.hac.ac.il, Odayaat@edu.hac.ac.il</p>
-<p>Hadas Id: 32491744<br> Odaya Id: 346328040 </p>
-<h1>Ex5 - Final project</h1>
+
+<h1>Final project</h1>
 
 ## doc:
 The documentation index.html is in README.html 
 ## Project Overview
 
 A comprehensive online food ordering website developed using Spring Boot and XAMPP for database management. The project enables users to browse menus, add dishes to their cart, and place orders effortlessly.
-
-## Link demo video 
-https://drive.google.com/file/d/1wT7HO3g-RCB_7m1DctxlOPqR4T6bCnmX/view?usp=drive_link
 
 ## Features
 
